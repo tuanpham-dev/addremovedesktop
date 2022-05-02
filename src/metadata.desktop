@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=Adds keyboard shortcuts to KWin for adding/removing virtual desktop.
+Icon=preferences-desktop-virtual
+Name=Add/Remove Desktop Shortcuts
+Type=Service
+X-KDE-PluginInfo-Author=Tuan Pham
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=tuanpham.developer@gmail.com
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=addremovedesktop
+X-KDE-PluginInfo-Version=1.2
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
